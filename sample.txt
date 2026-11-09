@@ -1,0 +1,7 @@
+1234567890
+!@#$%^&*()
+ABC abc XYZ
+Hello Bashar!
+Welcome to Hexadecimal Viewer.
+I am learning Cybersecurity and C Programming.
+This is my first Hex Viewer project.
